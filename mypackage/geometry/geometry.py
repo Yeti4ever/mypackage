@@ -14,3 +14,4 @@ class Line:
     def length(self) -> float:
         #self.distance=distance(self.p1,self.p2)
         return distance(self.p1,self.p2)
+ 
